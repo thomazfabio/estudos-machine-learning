@@ -44,6 +44,4 @@
 - **Projeto Pessoal**: Escolha um problema de visão computacional (detecção de objetos em tempo real, segmentação, etc.) e aplique tudo o que aprendeu. 
 - **Documentação e Publicação**: Anote todo o processo, resultados e aprendizados. Publicar no GitHub ou em blogs técnicos pode ser uma ótima maneira de consolidar o conhecimento.
 
-Com esse roadmap, você terá uma boa base para avançar nas redes mais complexas como YOLO e Mask R-CNN. Sugiro focar primeiro em conceitos básicos e redes convolucionais antes de mergulhar nos modelos avançados.
-
-Se precisar de ajuda em algum passo ou detalhe, estou por aqui!
+Com esse roadmap, teremos uma boa base para avançar nas redes mais complexas como YOLO e Mask R-CNN. Sugiro focar primeiro em conceitos básicos e redes convolucionais antes de mergulhar nos modelos avançados.
